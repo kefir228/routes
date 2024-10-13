@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/routes/static/css/main.d58b4a28.css",
+    "main.js": "/routes/static/js/main.1876f03a.js",
+    "static/media/cat2.jpg": "/routes/static/media/cat2.34db0e6b961dd2ad5ae2.jpg",
+    "static/media/cat3.jpg": "/routes/static/media/cat3.530a21910d69d42af4ac.jpg",
+    "static/media/fa-solid-900.ttf": "/routes/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/cat4.jpg": "/routes/static/media/cat4.f583cec3f4eedc849701.jpg",
+    "static/media/fa-brands-400.ttf": "/routes/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/cat7.jpg": "/routes/static/media/cat7.f3496553edb32f5da253.jpg",
+    "static/media/yoda.jpg": "/routes/static/media/yoda.973beacdf4418e8018a7.jpg",
+    "static/media/fa-solid-900.woff2": "/routes/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/anakin.jpg": "/routes/static/media/anakin.271d35b8df84c4cc5dcb.jpg",
+    "static/media/fa-brands-400.woff2": "/routes/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/cat5.jpg": "/routes/static/media/cat5.69e6a1bc1a8fea4a4e66.jpg",
+    "static/media/yoda-post.jpg": "/routes/static/media/yoda-post.2e60a0a83aa941498c32.jpg",
+    "static/media/fon.jpg": "/routes/static/media/fon.7d94b5f24a0db13678c1.jpg",
+    "static/media/cat6.jpg": "/routes/static/media/cat6.c3f6560f7f2ed9e17a07.jpg",
+    "static/media/fa-regular-400.ttf": "/routes/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/kenobiPost.jpg": "/routes/static/media/kenobiPost.5e128f1940189153efd5.jpg",
+    "static/media/kenobi.jpg": "/routes/static/media/kenobi.3f67395aa9ffe30ab83a.jpg",
+    "static/media/cat1.jpg": "/routes/static/media/cat1.786154117db9ac436869.jpg",
+    "static/media/fa-regular-400.woff2": "/routes/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/960x0.jpg": "/routes/static/media/960x0.96a88142898d54bf25ac.jpg",
+    "static/media/fa-v4compatibility.ttf": "/routes/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/routes/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/routes/index.html",
+    "main.d58b4a28.css.map": "/routes/static/css/main.d58b4a28.css.map",
+    "main.1876f03a.js.map": "/routes/static/js/main.1876f03a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d58b4a28.css",
+    "static/js/main.1876f03a.js"
+  ]
+}
