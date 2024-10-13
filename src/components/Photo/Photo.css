@@ -1,0 +1,29 @@
+
+.photoContainer {
+    display: flex;
+    justify-content: center;
+    padding:40px 20px;
+    background-color: black;
+  }
+  
+  .photoList {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .photoItem {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .photoImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
