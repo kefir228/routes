@@ -37,7 +37,7 @@ function App() {
       <div className="App">
         <Menu />
         <Routes>
-          <Route path='/' element={<Main />} />
+          <Route path='/routes' element={<Main />} />
           <Route path='/public' element={<Public />} />
           <Route path='/photo' element={<Photo images={catImages} />} />
           <Route path='/contacts' element={<Phone />} />
